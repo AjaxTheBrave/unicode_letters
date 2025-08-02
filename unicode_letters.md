@@ -1,5 +1,5 @@
-Original | Look-Alike
----      | ---
+Original Letter | Look-Alike
+---             | ---
 A | A
 Á | Á
 B | B
@@ -44,21 +44,57 @@ X |
 Y | 
 Z |
 ZS|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+a | 
+á | 
+b | 
+c |
+cs|
+d |
+dz|
+dzs|
+e |
+é |
+f |
+g |
+gy|
+h |
+i |
+í |
+j |
+k |
+l |
+ly|
+m |
+n |
+ny|
+o |
+ó |
+ö |
+ő |
+p |
+q |
+r |
+s |
+sz|
+t |
+ty|
+u |
+ú |
+ü |
+ű |
+v |
+w |
+x |
+y | 
+z |
+zs|
+0 |
+1 |
+2 |
+3 |
+4 |
+5 |
+6 |
+7 |
+8 |
+9 |
