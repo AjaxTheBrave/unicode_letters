@@ -1,92 +1,49 @@
 Original | Look-Alike
 ---      | ---
 A | A
-
 Á | Á
-
 B | B
-
 C |
-
-CS |
-
+CS|
 D |
-
-DZ |
-
-DZS |
-
+DZ|
+DZS|
 E |
-
 É |
-
 F |
-
 G |
-
-GY |
-
+GY|
 H |
-
 I |
-
 Í |
-
 J |
-
 K |
-
 L |
-
-LY |
-
+LY|
 M |
-
 N |
-
-NY |
-
+NY|
 O |
-
 Ó |
-
 Ö |
-
 Ő |
-
 P |
-
 Q |
-
 R |
-
 S |
-
-SZ |
-
+SZ|
 T |
-
-TY |
-
+TY|
 U |
-
 Ú |
-
 Ü |
-
 Ű |
-
 V |
-
 W |
-
 X |
-
 Y | 
-
 Z |
-
-ZS |
+ZS|
 
 
 
