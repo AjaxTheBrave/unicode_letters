@@ -14,7 +14,7 @@ E | E
 F | F 
 G | G
 GY| Gy 
-H | H 
+H | H
 I | I
 Í | Í 
 J | J 
