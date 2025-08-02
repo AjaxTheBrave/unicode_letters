@@ -4,7 +4,7 @@ Original Letter | Look-Alike
 A | A              
 Á | Á
 B | B
-C | 𝙲
+C | C 
 CS| Cs
 D | D 
 DZ| Dz
